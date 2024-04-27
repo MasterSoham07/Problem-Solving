@@ -33,7 +33,7 @@ class Solution {
             temp = front;
         }
 
-        return head;
+        return prev;
     }
 
 
